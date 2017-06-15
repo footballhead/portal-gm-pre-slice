@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Portal GM: Pre-Slice
+Comment=Portal GM: Pre-Slice
+Exec=portal-gm-pre-slice
+Icon=/usr/share/portal-gm-pre-slice/icon.png
+Terminal=false
+Type=Application
+Categories=Games;

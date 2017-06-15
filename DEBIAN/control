@@ -1,0 +1,12 @@
+Package: portal-gm-pre-slice
+Version: 1.0.0
+Section: games
+Priority: optional
+Architecture: amd64
+Depends: libglu1-mesa (>= 9.0.0-2.1), libalure1 (>= 1.2-6), fonts-dejavu-extra (>= 2.35-1)
+Homepage: https://44d-again-again.itch.io/portal-gm-pre-slice
+Replaces: portal-gm-pre-slice (<= 1.0.0)
+Maintainer: Michael Hitchens <mdhitchens@gmail.com>
+Description: Small 2D top-down version of Portal
+ Ported from Windows with Enigma and LateralGM
+
