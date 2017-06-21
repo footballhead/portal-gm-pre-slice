@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# This boot strap script is necessary to launch the game without crashing. Don't
+# ask me why. Might have something to do with the current working directory, or
+# how .desktop files are treated (since it doesn't happen through the console).
+
+/usr/share/portal-gm-pre-slice/game
